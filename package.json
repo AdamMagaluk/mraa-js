@@ -1,0 +1,11 @@
+{
+  "name": "mraa-js",
+  "version": "0.1.0",
+  "description": "mraa packaged for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Magaluk <AdamMagaluk@gmail.com>",
+  "license": "MIT"
+}
